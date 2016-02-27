@@ -21,6 +21,9 @@
     NSLog(@"from master first commit");
     NSLog(@"dev_branch first commit");
        NSLog(@"dev_branch second commit");
+     NSLog(@"from master second commit");
+    
+     NSLog(@"from dev_branch merge test commit");
 }
 
 - (void)didReceiveMemoryWarning {
