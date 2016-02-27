@@ -20,6 +20,7 @@
     NSLog(@"from dev");
     NSLog(@"from master first commit");
     NSLog(@"dev_branch first commit");
+     NSLog(@"from master second commit");
 }
 
 - (void)didReceiveMemoryWarning {
