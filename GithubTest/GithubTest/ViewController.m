@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"from dev");
     NSLog(@"from master first commit");
+    NSLog(@"dev_branch first commit");
 }
 
 - (void)didReceiveMemoryWarning {
